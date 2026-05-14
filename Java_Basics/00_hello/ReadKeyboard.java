@@ -6,7 +6,7 @@ class ReadKeyboard
         //Scanner obj
         Scanner sc = new Scanner(System.in); //System.in is associated with keyboard
         
-        int a,b,c;
+        int a, b, c;
 
         System.out.println("Enter 2 numbers");
 
@@ -15,9 +15,6 @@ class ReadKeyboard
         c = a + b;
 
         System.out.println("Sum is "+ c);
-
-
-        
 
 
     }
