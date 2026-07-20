@@ -11,6 +11,7 @@ class ValidateOverloading{
     }
     public static void main(String[] args) {
         System.out.println(validate("teslla"));
+        System.out.println(validate(4));
     }
 
 
